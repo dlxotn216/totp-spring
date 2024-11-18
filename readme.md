@@ -1,0 +1,1 @@
+<a href="https://medium.com/@taesulee93/mfa%EB%A5%BC-%EC%9C%84%ED%95%9C-otp-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC%EC%99%80-spring-kotlin-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-totp-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84-c7950ed73593">MFA를 위한 OTP 동작 원리와 Spring, Kotlin 환경에서의 TOTP 인증 구현</a>
